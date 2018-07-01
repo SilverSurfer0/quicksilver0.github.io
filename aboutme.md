@@ -19,6 +19,6 @@ My Introduction started with a 5-course specialization at University of Michigan
 
 As a great place for practice, connection and discussions with data-science folks all over the world is [Dataquest.io](https://www.dataquest.io)
 
-And an awesome 5-course Specialization on Deep Learning at [deeplearning.ai](http://deeplearning.ai) by amazing Andrew Ng (yes, people call him that).
+And an awesome 5-course Specialization on Deep Learning at [deeplearning.ai](http://deeplearning.ai) by Andrew Ng.
 
 Thanks for visiting my blog!
