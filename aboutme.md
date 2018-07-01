@@ -7,7 +7,7 @@ image: /img/me_Aug_2017_fb_sq.jpg
 
 Hi, I'm Vladimir, a Data Science enthusiast.
 
-I am very passionate. Data Science, Data Analysis, Deep Learning, AI - are most interesting for me, ironically are most boring for many others! I might dive very deep with my head into some DS project for a week or more to the point of day and night become indistinguishable, to come up later on with a sense of accomplishment and deep gratification. Yes, this is how it happens sometimes.
+I am very passionate about Data Science, Data Analysis, Deep Learning, AI - are most interesting for me, ironically are most boring for many others! I might dive very deep with my head into some DS project for a week or more to the point of day and night become indistinguishable, to come up later on with a sense of accomplishment and deep gratification. Yes, this is how it happens sometimes.
 
 What else?
 - I'm a vegetarian, sometimes rawtarian, and also into ecology a lot.
